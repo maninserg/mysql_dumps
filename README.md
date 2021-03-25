@@ -1,2 +1,10 @@
 # mysql_dumps
-Different dumps of MySQL
+
+**About:** Dumps from MySQL
+
+<hr>
+
+**Description:** Different dumps of MySQL
+
+<hr>
+
