@@ -18,29 +18,29 @@
    
     $ `cd <your name of directory with the program>`
 
-**Reloading from shell**
+    **Reloading from shell**
 
-3. Create database:
+        3. Create database:
    
-    $ `sudo mysqladmin create name_database`
+            $ `sudo mysqladmin create name_database`
     
-4. Load the dump file:
+        4. Load the dump file:
 
-    $ `sudo mysql name_database < name_dump_file`
+            $ `sudo mysql name_database < name_dump_file`
     
-**OR Reloading from mysql**
+      **OR Reloading from mysql**
 
-3. Enter to mysql:
+        3. Enter to mysql:
 
-    $ `sudo mysql`
+            $ `sudo mysql`
 
-4. Use the following command:
+        4. Use the following command:
+            
+            mysql> `CREATE DATABASE name_database;`
     
-    mysql> `CREATE DATABASE name_database;`
+            mysql> `USE name_database;`
     
-    mysql> `USE name_database;`
-    
-    mysql> `source name_name_dump_file`
+            mysql> `source name_name_dump_file`
     
 <i>*The installation for MacOS or Windows can be other</i>
 
