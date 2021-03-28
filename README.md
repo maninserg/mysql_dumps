@@ -12,11 +12,11 @@
 
 1. Clone the repository (or download the zip file and extract it):
 
-    $ `git clone git@github.com:maninserg/dictionary.git`
+    $ `git clone git@github.com:maninserg/mysql_dumps.git`
 
 2. Go to the directory of the program:
    
-    $ `cd <your name of directory with the program>`
+    $ `cd <your name of directory with mysql dumps>`
 
     **Reloading from shell**
 
