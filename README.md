@@ -37,7 +37,9 @@
 4. Use the following command:
     
     mysql> `CREATE DATABASE name_database;`
+    
     mysql> `USE name_database;`
+    
     mysql> `source name_name_dump_file`
     
 <i>*The installation for MacOS or Windows can be other</i>
