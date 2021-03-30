@@ -11,8 +11,6 @@ List of dumps:
 
 <hr>
 
-**Diagrams of databases:**
-
 <b>Reloading dumps for Linux*:</b>
 
 1. Clone the repository (or download the zip file and extract it):
@@ -50,3 +48,5 @@ List of dumps:
 <i>*The installation for MacOS or Windows can be other</i>
 
 <hr>
+
+**Diagrams of databases:**
