@@ -7,7 +7,7 @@
 **Description:** Different dumps of MySQL
 
 List of dumps:
-  - clone_instagram_database.sql -- simplified clone of an instagram's database. This is a full logical copy of datebase for PostgreSQL in https://github.com/maninserg/mysql_dumps;
+  - clone_instagram_database.sql -- simplified clone of an instagram's database. This is a full logical copy of datebase for PostgreSQL in https://github.com/maninserg/postgresql_dumps;
 
 <hr>
 
