@@ -1,17 +1,17 @@
 # mysql_dumps
 
-**About:** Dumps from MySQL
+Dumps from MySQL
 
-<hr>
 
-**Description:** Different dumps of MySQL
+## Description
+
+Different dumps of MySQL
 
 List of dumps:
   - clone_instagram_database.sql -- simplified clone of an instagram's database. This is a full logical copy of datebase for PostgreSQL in https://github.com/maninserg/postgresql_dumps;
 
-<hr>
 
-<b>Reloading dumps for Linux*:</b>
+## Reloading dumps for Linux\*:
 
 1. Clone the repository (or download the zip file and extract it):
 
@@ -47,6 +47,5 @@ List of dumps:
     
 <i>*The installation for MacOS or Windows can be other</i>
 
-<hr>
 
-**Diagrams of databases:**
+## Diagrams of databases
